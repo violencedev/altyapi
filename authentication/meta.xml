@@ -1,0 +1,8 @@
+<meta>
+    <script src="players.lua" type="server"/>
+    <script src="auth_c.lua" type="client"/>
+    <script src="accounts.lua" type="shared"/>
+    <file src="1.mp3"/>
+    <file src="2.mp3"/>
+    <file src="3.mp3"/>
+</meta>
